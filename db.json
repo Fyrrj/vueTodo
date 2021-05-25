@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "H3 tournament",
+      "day": "July 25 at 13:40",
+      "id": 1,
+      "reminder": true
+    },
+    {
+      "text": "Exams",
+      "day": "July 12 at 4:10pm",
+      "id": 2,
+      "reminder": false
+    }
+  ]
+}
