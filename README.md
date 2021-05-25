@@ -1,6 +1,6 @@
 # vuetodo
 
 ## Project start / preview
-npm run backend 
+1. $ npm run backend 
 
-npm run serve
+2. $ npm run serve
